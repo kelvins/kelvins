@@ -1,9 +1,6 @@
 ### Hey, I'm Kelvin! 👋
 
 :scientist: Machine Learning Engineer at [Luizalabs](github.com/luizalabs/) <br>
-:brazil: Rio Grande do Sul / São Paulo
-
-### Reach Me 📫
-
-:notebook: [Medium](https://medium.com/@kelvin_sp) <br>
-:briefcase: [LinkedIn](https://br.linkedin.com/in/kelvinsprado)
+:brazil: I'm from Rio Grande do Sul / Living in São Paulo <br>
+:notebook: I like to write some stuff on [Medium](https://medium.com/@kelvin_sp) <br>
+:briefcase: And this is my professional profile on [LinkedIn](https://br.linkedin.com/in/kelvinsprado)
