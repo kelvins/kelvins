@@ -1,6 +1,6 @@
 ### Hey, I'm Kelvin! 👋
 
-- :technologist: Machine Learning Engineer at [Luizalabs](https://github.com/luizalabs/)
+- :technologist: Machine Learning Engineer @ [Luizalabs](https://github.com/luizalabs/)
 - :brazil: From Rio Grande do Sul / Living in São Paulo
 - :notebook: I like to write about technology on [Medium](https://medium.com/@kelvin_sp)
 - :seedling: Learning more about Cloud Architecture, Software Engineering and Machine Learning
