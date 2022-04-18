@@ -1,6 +1,6 @@
 ### Hey, I'm Kelvin! 👋
 
-- :technologist: Machine Learning Engineer
+- :technologist: Machine Learning Engineer @ Nubank
 - :brazil: From Rio Grande do Sul / Living in São Paulo
 - :notebook: I like to write about technology on [Medium](https://kelvinsp.medium.com/)
 - :two_hearts: In love with Python, Go and Rust
